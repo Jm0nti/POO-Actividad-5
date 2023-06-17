@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Notas;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
